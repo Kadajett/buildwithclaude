@@ -3486,6 +3486,32 @@
       "path": "plugins/lnpl-mcp",
       "ref": "main"
     }
+  },
+  {
+    "name": "cockney",
+    "description": "Cheeky Cockney coding mode: terse replies, the smallest correct change, plain English for anything risky.",
+    "version": "0.1.0",
+    "author": {
+      "name": "Jeremy Stover",
+      "url": "https://github.com/Kadajett"
+    },
+    "homepage": "https://github.com/Kadajett/cockney",
+    "repository": "https://github.com/Kadajett/cockney",
+    "license": "MIT",
+    "keywords": [
+      "cockney",
+      "terse",
+      "minimal",
+      "code-style",
+      "persona",
+      "claude-code"
+    ],
+    "category": "productivity",
+    "source": {
+      "source": "github",
+      "repo": "Kadajett/cockney",
+      "sha": "d23d3036d7379a1f952989e4a91ea9a40c0a24f5"
+    }
   }
   ]
 }
