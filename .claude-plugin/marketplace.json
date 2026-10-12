@@ -3490,7 +3490,7 @@
   {
     "name": "cockney",
     "description": "Cheeky Cockney coding mode: terse replies, the smallest correct change, plain English for anything risky.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": {
       "name": "Jeremy Stover",
       "url": "https://github.com/Kadajett"
@@ -3510,7 +3510,7 @@
     "source": {
       "source": "github",
       "repo": "Kadajett/cockney",
-      "sha": "d23d3036d7379a1f952989e4a91ea9a40c0a24f5"
+      "sha": "9d65e6eb0f20f6e52417c7b44bc92edee38c65bb"
     }
   }
   ]
